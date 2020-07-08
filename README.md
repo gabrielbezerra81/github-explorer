@@ -30,15 +30,10 @@ Github Explorer é uma aplicação web que permite pesquisar repositórios de us
 
 ### Executando projeto:
 
-Instalar dependências do projeto
+Instalar dependências do projeto:
 
-`
-npm install
-npm start
-`
-ou caso tenha o yarn instalado:
-`
-yarn
-yarn start
-`
+```
+cd github-explorer
+'npm install' ou 'yarn'
+```
 
