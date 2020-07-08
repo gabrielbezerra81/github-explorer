@@ -35,8 +35,15 @@ cd github-explorer
 'npm install' ou 'yarn'
 ```
 
-Execute o projeto
+Execute o projeto:
 
 ```
 'npm start' ou 'yarn start'
 ```
+
+## Como utilizar
+
+Com a página principal aberta, você deve pesquisar o repositório no formato "autor/repositório".
+
+Ex: facebook/react
+    gabrielbezerra81/github-explorer
