@@ -16,7 +16,7 @@
 
 
 <p alig="justify">
-Github Explorer é uma aplicação web que permite pesquisar repositórios de usuários e em seguida apresenta informações básicas do repositório. É apresentada uma visão geral do repositório com nome e sua descrição, além de informações como quantidade de estrelas, forks e issues abertas. O usuário pode visualizar também quais são as issues abertas e ao clicar sobre elas, é redirecionado para a página da issue.
+Github Explorer é uma aplicação web que permite pesquisar repositórios de usuários e em seguida apresenta informações básicas do repositório. É apresentada uma visão geral do repositório com nome e sua descrição, além de sua quantidade de estrelas, forks e issues abertas. O usuário pode visualizar também quais são as issues abertas e ao clicar sobre elas, é redirecionado para a página da issue.
 </p>
 
 <p align="center">
