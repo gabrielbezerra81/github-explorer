@@ -46,7 +46,8 @@ Execute o projeto:
 Com a página principal aberta, você deve pesquisar o repositório no formato "autor/repositório". Em seguida, serão listados os repositórios pesquisados e você pode clicar sobre eles e visualizar mais informações.
 
     formato de pesquisa: 
-        * facebook/react
-        * gabrielbezerra81/github-explorer
+    
+        facebook/react
+        gabrielbezerra81/github-explorer
         
  
