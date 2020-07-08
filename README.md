@@ -22,18 +22,21 @@ Github Explorer é uma aplicação web que permite pesquisar repositórios de us
 <p align="center">
 </p>
 
-## Como utilizar
+## Como executar o projeto
 
 ### Pré-requisito:
 
 * [Node.js - versão LTS](https://nodejs.org/en/download/)
 
-### Executando projeto:
-
-Instalar dependências do projeto:
+Instale dependências do projeto:
 
 ```
 cd github-explorer
 'npm install' ou 'yarn'
 ```
 
+Execute o projeto
+
+```
+'npm start' ou 'yarn start'
+```
