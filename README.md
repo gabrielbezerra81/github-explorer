@@ -43,7 +43,10 @@ Execute o projeto:
 
 ## Como utilizar
 
-Com a página principal aberta, você deve pesquisar o repositório no formato "autor/repositório".
+Com a página principal aberta, você deve pesquisar o repositório no formato "autor/repositório". Em seguida, serão listados os repositórios pesquisados e você pode clicar sobre eles e visualizar mais informações.
 
-Ex: facebook/react
-    gabrielbezerra81/github-explorer
+    formato de pesquisa: 
+        * facebook/react
+        * gabrielbezerra81/github-explorer
+        
+ 
