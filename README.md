@@ -25,7 +25,11 @@ Github Explorer é uma aplicação web que permite pesquisar repositórios de us
 * [Node.js](https://nodejs.org/en/)
 * [Typescript](https://www.typescriptlang.org/)
 
-## Como executar o projeto
+## Demonstração
+
+Veja uma [demonstração](https://github-explorer-gb81.netlify.app/) do app
+
+## Como executar o projeto localmente
 
 ### Pré-requisito:
 
